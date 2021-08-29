@@ -1,2 +1,2 @@
 # Discord.py-loo_translater
-Discord.py แปลภาษาลู
+Discord.py - แปลภาษาลู!
